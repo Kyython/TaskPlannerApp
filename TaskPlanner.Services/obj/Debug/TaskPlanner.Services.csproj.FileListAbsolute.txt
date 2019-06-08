@@ -1,0 +1,11 @@
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\bin\Debug\TaskPlanner.Services.dll
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\bin\Debug\TaskPlanner.Services.pdb
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.dll
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.pdb
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.csprojAssemblyReference.cache
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Services\bin\Debug\TaskPlanner.Services.dll
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Services\bin\Debug\TaskPlanner.Services.pdb
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.dll
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Services\obj\Debug\TaskPlanner.Services.pdb

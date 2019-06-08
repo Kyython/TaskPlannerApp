@@ -1,0 +1,15 @@
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.Models.dll
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.Models.pdb
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.DataAccess.dll
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.DataAccess.pdb
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.csproj.CopyComplete
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.dll
+C:\Users\ерика.CORP.000\source\repos\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.pdb
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.Models.dll
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\bin\Debug\TaskPlanner.Models.pdb
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.csprojAssemblyReference.cache
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.dll
+C:\Users\Асанали\Desktop\TaskPlanner\TaskPlanner.Models\obj\Debug\TaskPlanner.Models.pdb
